@@ -27,7 +27,7 @@ Colocar em prática os conhecimentos sobre **controle de fluxo** em Java, criand
 **Entrada:**
  
 Digite o primeiro parâmetro:
-12
+12       
 Digite o segundo parâmetro:
 15
 
@@ -42,7 +42,7 @@ Imprimindo o número 3
 **Entrada inválida:**
 
 Digite o primeiro parâmetro:
-20
+20      
 Digite o segundo parâmetro:
 10
 
@@ -57,7 +57,7 @@ O segundo parâmetro deve ser maior que o primeiro
 ## Estrutura do Projeto
 
 DesafioControleFluxo/   
-├── Contador.java
+├── Contador.java    
 └──ParametrosInvalidosExcepion.java
 
 
