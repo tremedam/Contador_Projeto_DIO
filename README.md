@@ -1,8 +1,8 @@
-# 🚀 Desafio: Controle de Fluxo em Java
+# Desafio: Controle de Fluxo em Java
 
-Este projeto foi desenvolvido como parte da **Trilha Java Básico** da [DIO (Digital Innovation One)](https://www.dio.me), sob orientação do instrutor **Gleyson Sampaio**.
+Este projeto foi desenvolvido como parte da **Trilha Java Básico** da [DIO (Digital Innovation One)](https://www.dio.me), sob exercicio criado por **Gleyson Sampaio**.
 
-## 🧠 Objetivo do Desafio
+## Objetivo do Desafio
 
 Colocar em prática os conhecimentos sobre **controle de fluxo** em Java, criando um sistema simples que:
 
@@ -12,7 +12,7 @@ Colocar em prática os conhecimentos sobre **controle de fluxo** em Java, criand
 
 ---
 
-## 🛠️ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ✅ Leitura de dois números inteiros via terminal  
 ✅ Validação dos parâmetros com exceção customizada  
@@ -22,7 +22,7 @@ Colocar em prática os conhecimentos sobre **controle de fluxo** em Java, criand
 
 ---
 
-## 📄 Exemplo de Execução
+## Exemplo de Execução
 
 **Entrada:**
  
@@ -34,8 +34,8 @@ Digite o segundo parâmetro:
 
 **Saída:**
 
-Imprimindo o número 1
-Imprimindo o número 2
+Imprimindo o número 1   
+Imprimindo o número 2   
 Imprimindo o número 3
 
 
@@ -54,11 +54,11 @@ O segundo parâmetro deve ser maior que o primeiro
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
-DesafioControleFluxo/
+DesafioControleFluxo/   
 ├── Contador.java
-└── ParametrosInvalidosException.java
+└──ParametrosInvalidosExcepion.java
 
 
 - `Contador.java`: contém a lógica principal de leitura, validação e impressão dos números.
@@ -66,7 +66,7 @@ DesafioControleFluxo/
 
 ---
 
-## 👨‍💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - VSCode
@@ -74,6 +74,6 @@ DesafioControleFluxo/
 
 ---
 
-## ✍️ Autor
+## Autor
 
 Projeto desenvolvido por **Thiago Fellipe S. Dias** durante a trilha **Java** na [DIO](https://www.dio.me).
