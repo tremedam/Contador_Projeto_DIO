@@ -74,6 +74,12 @@ DesafioControleFluxo/
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+
 ## Autor
 
 Projeto desenvolvido por **Thiago Fellipe S. Dias** durante a trilha **Java** na [DIO](https://www.dio.me).
